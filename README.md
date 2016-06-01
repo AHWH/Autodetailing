@@ -2,6 +2,8 @@
 
 A javascript-based detailing system that allows the planner to with a click of a button, automatically generates a schedule for the day based on the personnel selected.
 
+[Click here for Demo]("https://ahwh.github.io/AutoDetailingDemo/detailing-bs3f.html")
+
 ## Background
 
 Planning duties have always been a chore and boring thing to do. It requires the planner to divide the timing equally, allocate the personnel and deal with people who might find it bias (as the planner might not be truly random). Hence to get around problem, the idea of an automatic generated detailing by the computer was hatched. However it has some criteria.
