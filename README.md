@@ -2,7 +2,7 @@
 
 A javascript-based detailing system that allows the planner to with a click of a button, automatically generates a schedule for the day based on the personnel selected.
 
-[Click here for Demo]("https://ahwh.github.io/AutoDetailingDemo/detailing-bs3f.html")
+[Click here for Demo](https://ahwh.github.io/AutoDetailingDemo/detailing-bs3f.html)
 
 ## Background
 
